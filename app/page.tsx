@@ -159,13 +159,20 @@ export default function Home() {
             >
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-purple-500 shadow-lg shadow-purple-500/20">
                 {/* Replace with your photo */}
-                <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-blue-500/20 flex items-center justify-center text-white">
+                {/* <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-blue-500/20 flex items-center justify-center text-white">
                   <p className="text-center px-4">
                     Add your photo here
                     <br />
                     (300x300px recommended)
                   </p>
-                </div>
+                </div> */}
+
+
+                <img
+                src="./img/ra.png"
+                alt="Muhammed Rashid N Profile Photo"
+                className="w-full h-full object-cover"
+                />
               </div>
             </motion.div>
           </div>
