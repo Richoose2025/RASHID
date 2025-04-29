@@ -128,8 +128,7 @@ export default function Home() {
             >
               <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-blue-500">
-                  Front-End Developer
-                </span>
+                Passionate developer and pursuing MCA.                </span>
               </h1>
               <p className="text-xl text-gray-300 mb-6">
                 Creating immersive digital experiences with cutting-edge technologies and creative design solutions
